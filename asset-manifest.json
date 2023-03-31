@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hirohiko-araki-page/static/css/main.75acf3be.css",
+    "main.js": "/hirohiko-araki-page/static/js/main.b0901df2.js",
+    "static/js/787.ef366e3a.chunk.js": "/hirohiko-araki-page/static/js/787.ef366e3a.chunk.js",
+    "index.html": "/hirohiko-araki-page/index.html",
+    "main.75acf3be.css.map": "/hirohiko-araki-page/static/css/main.75acf3be.css.map",
+    "main.b0901df2.js.map": "/hirohiko-araki-page/static/js/main.b0901df2.js.map",
+    "787.ef366e3a.chunk.js.map": "/hirohiko-araki-page/static/js/787.ef366e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75acf3be.css",
+    "static/js/main.b0901df2.js"
+  ]
+}
