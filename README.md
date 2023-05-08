@@ -1,6 +1,10 @@
 # Hirohiko Araki Page
 
+English | [pt-br](README-pt.md)
+
 an author introduction page <a href="https://jjba.fandom.com/en-us/wiki/Hirohiko_Araki">Hirohiko Araki</a> (Creator of JoJo Bizarre's Adventures) made entirely with React
+
+<hr>
 
 ***Reasons that led this site to exist***:
 - testing the React framework of the JavaScript language
